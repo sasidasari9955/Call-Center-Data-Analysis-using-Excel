@@ -1,5 +1,6 @@
 
 ## 📊 Call Center Data Analysis – Excel Dashboard
+<img width="1468" height="724" alt="Screenshot 2026-02-17 at 3 45 45 PM" src="https://github.com/user-attachments/assets/90909f85-90e3-405f-9fca-bdcded976f74" />
 
 ## Overview
 This project delivers an interactive **Call Center Performance Dashboard** built in **Microsoft Excel** to monitor operations, agent productivity, revenue, and customer satisfaction.  
